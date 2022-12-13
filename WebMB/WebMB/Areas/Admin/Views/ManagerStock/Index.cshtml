@@ -1,0 +1,56 @@
+﻿@model List<WebMB.Areas.Admin.Models.CartViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<main>
+ 
+    <table class="customers">
+        <tr>
+            <td>Số HD</td>
+            <td>Tên đơn hàng</td>
+            <td>Ngày mua</td>
+            <td>Địa chỉ</td>
+            <td>Chi tiết</td>
+            <td>Tình trạng đơn hàng</td>
+            <td>Xác nhận đơn hàng</td>
+            <td>Hủy đơn hàng</td>
+        </tr>
+        <tr>
+            @foreach (var item in Model)
+            {
+            <tr>
+
+                <td>@item.order.ID</td>
+                <td>@item.order.Name</td>
+                <td>@item.order.CreateDate</td>
+                <td>@item.order.Address</td>
+                <td>
+                    @foreach (var item2 in ViewBag.Orderview)
+                    {
+
+                        if (item.order.ID == item2.orderDetail.OrderID)
+                        {
+                            <p>@item2.Product.name  X @item2.orderDetail.Quantity</p>
+                        }
+                    }
+                </td>
+                                
+                <td>@item.statusOrder.statusName</td>
+
+                <td>
+                    <a href="~/Admin/ManagerStock/AcceptOrder?orderID=@item.order.ID"
+                       class="btn btn-primary btn-success ">Xác Nhận</a>
+                </td>
+                <td>
+                    <a href="~/Admin/ManagerStock/DeclineOrder?orderID=@item.order.ID"
+                       class="btn btn-primary btn-danger ">Hủy Đơn</a>
+                </td>
+            </tr>
+             }
+
+
+        </table>
+    </main>
+

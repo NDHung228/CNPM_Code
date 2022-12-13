@@ -1,0 +1,67 @@
+﻿
+@{
+    ViewBag.Title = "Detail";
+}
+@model WebMB.Context.Product
+<div class="hero">
+    <div class="container">
+        <div class="row justify-content-between">
+            <div class="col-lg-5">
+                <div class="intro-excerpt">
+                    <h1>Shop</h1>
+                </div>
+            </div>
+            <div class="col-lg-7">
+            </div>
+        </div>
+    </div>
+</div>
+<section class="u-align-center u-clearfix u-section-2" id="sec-4496">
+    <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <!--product--><!--product_options_json--><!--{"source":""}--><!--/product_options_json--><!--product_item-->
+        <div class="u-container-style u-expanded-width u-product u-product-1">
+            <div class="u-container-layout u-valign-middle-lg u-valign-middle-xl u-valign-top-sm u-valign-top-xs u-container-layout-1">
+                <!--product_image-->
+                <table>
+                    <tr>
+                        <td> <img alt="" class="u-expanded-width-sm u-expanded-width-xs u-image u-image-default u-product-control u-image-1" src="~/Content/images/@Model.img"><!--/product_image--></td>
+
+                        <td style="padding-left:15px">
+                            <div class="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-container-style u-expanded-width-sm u-expanded-width-xs u-group u-shape-rectangle u-group-1">
+                                <div class="u-container-layout u-valign-middle u-container-layout-2">
+                                    <div class="u-border-3 u-border-palette-4-base u-line u-line-horizontal u-line-1"></div><!--product_title-->
+                                    <h2 class="u-custom-font u-font-merriweather u-product-control u-text u-text-1">
+                                        <a class="u-product-title-link" href="#"><!--product_title_content-->@Model.name<!--/product_title_content--></a>
+                                    </h2><!--/product_title--><!--product_price-->
+                                    <div class="u-custom-font u-font-merriweather u-product-control u-product-price u-product-price-1">
+                                        <div class="u-price-wrapper u-spacing-10">
+                                            <!--product_old_price-->
+                                            <div class="u-price u-text-palette-4-base" style="font-size: 1.5rem; font-weight: 700;"><!--product_regular_price_content-->@Model.price<!--/product_regular_price_content--></div><!--/product_regular_price-->
+                                        </div>
+                                    </div><!--/product_price--><!--product_content-->
+                                    <div class="u-product-control u-product-desc u-text u-text-default u-text-2">
+                                        <!--product_content_content-->
+                                        <p>@Model.description</p><!--/product_content_content-->
+                                    </div><!--/product_content--><!--product_button--><!--options_json--><!--{"clickType":"add-to-cart"}--><!--/options_json-->
+                                    <div class="input-group mb-3 d-flex align-items-center quantity-container" style="max-width: 220px;">
+                                        <div class="input-group-prepend">
+                                            <button class="btn btn-outline-black decrease" type="button">&minus;</button>
+                                        </div>
+                                        <input type="number" class="form-control text-center quantity-amount" value="1" placeholder="" aria-label="Example text with button addon" aria-describedby="button-addon1">
+                                        <div class="input-group-append">
+                                            <button class="btn btn-outline-black increase" type="button">&plus;</button>
+                                        </div>
+                                    </div>
+                                    <a class="nav-link" href="/Cart/AddItem?productID=@Model.id&quantity=1"><img width="50px" height="50px" src="~/Content/images/add-to-cart.png"></a>
+                                    <p>Add to cart</p>
+                                </div>
+                            </div>
+                        </td>
+
+                    </tr>
+                </table>
+            </div>
+        </div><!--/product_item--><!--/product-->
+    </div>
+</section>
+

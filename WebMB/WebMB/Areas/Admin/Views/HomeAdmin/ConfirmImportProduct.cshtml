@@ -1,0 +1,64 @@
+﻿
+@{
+    ViewBag.Title = "ConfirmImportProduct";
+}
+
+@model List<WebMB.Areas.Admin.Models.CartViewModel>
+
+<main>
+  
+    <table class="customers">
+        <tr>
+            <td>Mã nhập hàng</td>
+            <td>Tên sản phẩm</td>
+            <td>Số lượng hàng còn trong kho</td>
+            <td>Số lượng yêu cầu nhập thêm</td>
+            <td>Ngày gửi yêu cầu nhập hàng</td>
+            <td>Trạng thái</td>
+
+        </tr>
+        <tr>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>@item.importProduct.importID</td>
+
+                <td>@item.product.name</td>
+                <td>@item.product.count</td>
+                <td>@item.importProduct.importQuantity</td>
+                <td>@item.importProduct.createDate</td>
+
+                @if (item.importProduct.status == 0)
+                {
+                    <td>
+                        <a href="~/Admin/HomeAdmin/AcceptImport?importID=@item.importProduct.importID"
+                           class="btn btn-primary btn-success ">Xác Nhận</a>
+                    </td>
+                    <td>
+                        <a href="~/Admin/HomeAdmin/DeclineImport?importID=@item.importProduct.importID"
+                           class="btn btn-primary btn-danger ">Hủy Đơn</a>
+                    </td>
+                }
+                else
+                {
+                    if (item.importProduct.status == 0)
+                    {
+                        <td>Đang xử lí</td>
+                    }
+                    if (item.importProduct.status == 1)
+                    {
+                        <td>Đã xác nhận</td>
+                    }
+                    if (item.importProduct.status == -1)
+                    {
+                        <td>Đã từ chối</td>
+                    }
+                }
+            </tr>
+            }
+
+
+
+        </table>
+    </main>
+

@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "Stock";
+}
+
+@model List<WebMB.Context.Product>
+<main>
+   
+    <table class="customers">
+        <tr>
+            <td>Name Product</td>
+            <td>Image</td>
+            <td>Price</td>
+            <td>Quantity</td>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.name</td>
+                <td><img height="100px" width="100px" src="~/Content/images/@item.img" class="img-fluid product-thumbnail"></td>
+                <td>@item.price</td>
+                <td>@item.count</td>
+            </tr>
+        }
+
+    </table>
+</main>
+

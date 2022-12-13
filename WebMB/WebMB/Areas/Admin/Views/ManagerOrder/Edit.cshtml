@@ -1,0 +1,58 @@
+﻿@model WebMB.Areas.Admin.Models.CartViewModel
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+
+<main>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+    <table class="customers">
+        <tr>
+
+            <td>Thông tin đơn hàng</td>
+            <td>Địa chỉ</td>
+            <td>SDT</td>
+
+        </tr>
+        <tr>
+            <td>
+                @foreach (var item2 in ViewBag.Orderview)
+                {
+                    if(Model.order.ID == item2.orderDetail.OrderID) { 
+                     <p>@item2.Product.name   X @item2.orderDetail.Quantity</p> 
+                     <p>
+                         @{ 
+                             int quantity = @item2.orderDetail.Quantity;
+                         }
+
+                         @using (Html.BeginForm("EditDetailOrder", "ManagerOrder"))
+                         {
+                             <input name="quantity" value="@quantity" style="border-radius: 50px 50px ;" type="number" class="form-control text-center quantity-amount" placeholder="" aria-label="Example text with button addon" aria-describedby="button-addon1">
+
+                             <a href="~/Admin/ManagerOrder/DeleteProduct/?ProductID=@item2.Product.id&OrderID=@item2.orderDetail.OrderID" class="btn btn-black btn-sm">X</a>
+                            @*<a href="~/Admin/ManagerOrder/EditDetailOrder/?ProductID=@item2.Product.id&quantity=@quantity"style=" background-color: #3b5d50 !important;border-radius:90%;color:white">Update</a>*@
+
+                         }
+
+                     </p>
+                    }
+                }
+            </td>
+            <td><input style="font-weight: bold;" name="address" type="text" class="form-control" value="@Model.order.Address"></td>
+            <td><input style="font-weight: bold;" name="phone" type="text" class="form-control" value="@Model.order.Phone"></td>
+
+        </table>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+                
+            </div>
+        </div>
+    }
+</main>

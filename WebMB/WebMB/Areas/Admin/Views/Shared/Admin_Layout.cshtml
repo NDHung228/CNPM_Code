@@ -1,0 +1,158 @@
+﻿
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Admin page</title>
+    <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
+    <link rel="stylesheet" href="~/Areas/Admin/ContentAdmin/css/style.css">
+    <link rel="stylesheet" href="~/Areas/Admin/ContentAdmin/css/tablestyle.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+    @*Manager order*@
+
+    @if (Session["UserName"].Equals("AdminOrder"))
+    {
+        <div class="sidebar">
+            <div class="sidebar-brand ">
+                <h2><span class="lab la-accusoft"></span>Manager Order</h2>
+            </div>
+            <div class="sidebar-menu">
+                <ul>
+                    <li>
+                        <a href="~/Admin/ManagerOrder/Index">
+                            <span class="las  la-shopping-bag"></span>
+                            <span>Đơn hàng cần phải xử lý</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a style="height:75%" href="@Url.Action("Logout","ManagerOrder")" class="btn btn-warning nav-link">Đăng xuất</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+    }
+
+@*    Manager Stock*@
+    @if (Session["UserName"].Equals("AdminStock"))
+    {
+        <div class="sidebar">
+            <div class="sidebar-brand">
+                <h2><span class="lab la-accusoft"></span>Manager Stock</h2>
+            </div>
+            <div class="sidebar-menu">
+                <ul>
+                    <li>
+                        <a href="~/Admin/ManagerStock/Stock">
+                            <span class="las  la-shopping-bag"></span>
+                            <span>Product in stock</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="~/Admin/ManagerStock/Index">
+                            <span class="las  la-shopping-bag"></span>
+                            <span>Manage order</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="~/Admin/ManagerStock/ImportProduct">
+                            <span class="las  la-shopping-bag"></span>
+                            <span>Report import product</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="~/Admin/ManagerStock/StatusImportProduct">
+                            <span class="las  la-shopping-bag"></span>
+                            <span>Status import product</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a style="height:75%" href="@Url.Action("Logout","ManagerOrder")" class="btn btn-warning nav-link">Logout</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    }
+
+    @*Shipper*@
+    @if (Session["UserName"].Equals("Shipper"))
+    {
+        <div class="sidebar">
+            <div class="sidebar-brand">
+                <h2><span class="lab la-accusoft"></span>Shipper</h2>
+            </div>
+            <div class="sidebar-menu">
+                <ul>
+                    <li>
+                        <a href="~/Admin/Delivery/Index">
+                            <span class="las  la-shopping-bag"></span>
+                            <span>Manage Order</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a style="height:75%" href="@Url.Action("Logout","ManagerOrder")" class="btn btn-warning nav-link">Logout</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+    }
+
+    @if (Session["UserName"].Equals("Admin"))
+    {
+        <div class="sidebar">
+            <div class="sidebar-brand">
+                <h2><span class="lab la-accusoft"></span>Admin</h2>
+            </div>
+            <div class="sidebar-menu">
+                <ul>
+                    <li>
+                        <a href="~/Admin/HomeAdmin/SuccessOrder">
+                            <span class="las  la-shopping-bag"></span>
+                            <span>Đơn hàng thành công</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="~/Admin/HomeAdmin/CanCelOrder">
+                            <span class="las  la-shopping-bag"></span>
+                            <span>Đơn hàng bị hủy</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="~/Admin/ManagerStock/Stock">
+                            <span class="las  la-shopping-bag"></span>
+                            <span>Sản phẩm trong kho</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="~/Admin/HomeAdmin/ConfirmImportProduct">
+                            <span class="las  la-shopping-bag"></span>
+                            <span>Yêu cầu nhập hàng từ kho</span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="~/Admin/HomeAdmin/AddProduct">
+                            <span class="las  la-shopping-bag"></span>
+                            <span>Thêm sản phẩm mới</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a style="height:75%" href="@Url.Action("Logout","ManagerOrder")" class="btn btn-warning nav-link">Logout</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+    }
+
+    <div class="main-content">
+
+        @RenderBody()
+    </div>
+</body>
+</html>
+

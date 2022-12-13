@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "ManagerProduct";
+}
+@model List<WebMB.Context.Product>
+<main>
+    <h2>The <code>table-layout</code> property demo</h2>
+    <h1>A Fancy Table</h1>
+    <table class="customers">
+        <tr>
+            <th>Name Product</th>
+            <th>Image</th>
+            <th>Price</th>
+            <th>Quantity</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.name</td>
+                <td><img height="100px" width="100px" src="~/Content/images/@item.img" class="img-fluid product-thumbnail"></td>
+                <td>@item.price</td>
+                <td>@item.count</td>
+            </tr>
+        }
+
+    </table>
+</main>
+

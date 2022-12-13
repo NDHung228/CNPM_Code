@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Check";
+}
+<div class="col-lg-8">
+    <h3 class="d-flex align-items-center">
+        <span class="me-1"><img width="50px" height="50px" src="/Content/images/checkinfcus.png" alt="Image" class="img-fluid"></span><span>
+            Reconfirm delivery information
+        </span>
+    </h3>
+
+<div>
+    @using (Html.BeginForm("ConfirmCheck", "Cart",FormMethod.Post))
+    {
+    <div style="padding-top: 20px; padding-left: 20px" class="col-auto">
+        <p style="font-weight: bold; padding-left: 10px; font-size: 20px; color: blue">Phone number</p>
+        <input style="font-weight: bold;" name="inputphone" type="text" class="form-control" value="@ViewBag.check">
+    </div>
+    <div style="padding-top:20px;padding-left:20px" class="col-auto">
+        <p style="font-weight: bold; padding-left: 10px; font-size: 20px; color: blue">Adress</p>
+        <input style="font-weight: bold;" name="inputadd" type="text" class="form-control" value="@ViewBag.check2">
+    </div>
+    <div style="padding-bottom:10px; padding-top:20px;padding-left:50%" class="col-auto">
+        <button type="submit" class="btn btn-primary">
+            <span class="fa fa-paper-plane"></span>
+        </button>
+    </div>
+    }
+
+</div>
+</div>

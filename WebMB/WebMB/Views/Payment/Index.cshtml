@@ -1,0 +1,71 @@
+﻿@model List<WebMB.Context.Order>
+
+@{
+    ViewBag.Title = "Index";
+}
+<div class="untree_co-section before-footer-section">
+    <div class="rounded">
+        <div class="table-responsive table-borderless">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th class="text-center">
+                            <div class="toggle-btn">
+                                <div class="inner-circle"></div>
+                            </div>
+                        </th>
+                        <th>Order ID</th>
+                        <th>Name</th>
+                        <th>Details</th>
+                        <th>UserName</th>
+                        <th>Created</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+
+                <tbody class="table-body">
+                    @foreach (var item in Model) { 
+
+                        if (item.Username.Equals(Session["UserName"]))
+                        {
+                        <tr class="cell-1">
+                            <td class="text-center">
+                                <div class="toggle-btn">
+                                    <div class="inner-circle"></div>
+                                </div>
+                            </td>
+
+                            <td>@item.ID</td>
+                            <td>@item.Name</td>
+                            <td>
+                                @foreach (var item2 in ViewBag.Orderview)
+                                {
+
+                                    if (item.ID == item2.orderDetail.OrderID)
+                                    {
+                        <p>@item2.Product.name   X @item2.orderDetail.Quantity</p>
+                                    }
+                                }
+                            </td>
+                            <td>@item.Username</td>
+                            <td>@item.CreateDate</td>
+                            <td>
+                                @foreach (var item2 in ViewBag.Orderview)
+                                {
+
+                                    if (item.ID == item2.orderDetail.OrderID)
+                                    {
+                                        <p>@item2.statusOrder.statusName</p>
+                                        break;
+                                    }
+                                }
+                            </td>
+
+                        </tr>
+                            }
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

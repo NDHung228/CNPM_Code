@@ -1,0 +1,62 @@
+﻿@model WebMB.Context.Product
+
+@{
+    ViewBag.Title = "AddProduct";
+}
+<style>
+    div {
+        padding: 10px;
+        margin: 10px;
+    }
+
+    .widthText {
+        height: 100px;
+        width: 500px;
+    }
+</style>
+
+<h2>AddProduct</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div>
+        <span>Tên điện thoại</span>
+        @Html.TextBoxFor(m => m.name, new { @class = "form-control", @placeholder = "", type = "Text" })
+    </div>
+    <div>
+        <span>Ảnh điện thoại</span>
+        @Html.TextBoxFor(m => m.img, new { @class = "form-control", @placeholder = "", type = "File" })
+        @*<input type="file" name="ImageData" id="ImageData" onchange="fileCheck(this);" />*@
+    </div>
+
+    <div>
+        <span>Mô tả sản phẩm</span>
+        <span class="widthText">
+            @Html.TextBoxFor(m => m.description, new { @class = "form-control", @placeholder = "", type = "Text" })
+        </span>
+    </div>
+
+    <div>
+        <span>Giá sản phẩm</span>
+        <span class="widthText">
+            @Html.TextBoxFor(m => m.price, new { @class = "form-control", @placeholder = "", type = "Number" })
+        </span>
+    </div>
+
+    <div>
+        <span>Số lượng</span>
+        <span class="widthText">
+            @Html.TextBoxFor(m => m.count, new { @class = "form-control", @placeholder = "", type = "Number" })
+        </span>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Add" class="btn btn-default" />
+        </div>
+    </div>
+
+
+}  

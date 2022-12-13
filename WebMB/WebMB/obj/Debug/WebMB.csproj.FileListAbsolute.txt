@@ -1,0 +1,953 @@
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\WebMB.dll.config
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\WebMB.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\WebMB.pdb
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\csc.exe
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\csc.exe.config
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\csc.rsp
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\csi.exe
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\csi.exe.config
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\csi.rsp
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\System.AppContext.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\System.Collections.Immutable.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\System.Console.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\System.Globalization.Calendars.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\System.IO.Compression.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\System.IO.FileSystem.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\System.Net.Http.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\System.Net.Sockets.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\System.Reflection.Metadata.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\System.ValueTuple.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\System.Xml.XPath.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\vbc.exe
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\vbc.exe.config
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\vbc.rsp
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\VBCSCompiler.exe
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\roslyn\VBCSCompiler.exe.config
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\Antlr3.Runtime.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\Microsoft.Web.Infrastructure.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\Newtonsoft.Json.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\System.Web.Helpers.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\System.Web.Mvc.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\System.Web.Optimization.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\System.Web.Razor.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\System.Web.WebPages.Deployment.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\System.Web.WebPages.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\System.Web.WebPages.Razor.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\WebGrease.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\System.Web.Helpers.xml
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\System.Web.Mvc.xml
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\System.Web.Optimization.xml
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\System.Web.Razor.xml
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\System.Web.WebPages.xml
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\System.Web.WebPages.Deployment.xml
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\System.Web.WebPages.Razor.xml
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\Newtonsoft.Json.xml
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\Antlr3.Runtime.pdb
+D:\HK5\CNPM\Final\WebMB\WebMB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HK5\CNPM\Final\WebMB\WebMB\obj\Debug\WebMB.csproj.AssemblyReference.cache
+D:\HK5\CNPM\Final\WebMB\WebMB\obj\Debug\WebMB.csproj.CoreCompileInputs.cache
+D:\HK5\CNPM\Final\WebMB\WebMB\obj\Debug\WebMB.csproj.CopyComplete
+D:\HK5\CNPM\Final\WebMB\WebMB\obj\Debug\WebMB.dll
+D:\HK5\CNPM\Final\WebMB\WebMB\obj\Debug\WebMB.pdb
+D:\HK5\ShopMobile\WebMB\WebMB\bin\WebMB.dll.config
+D:\HK5\ShopMobile\WebMB\WebMB\bin\WebMB.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\WebMB.pdb
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\csc.exe
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\csc.exe.config
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\csc.rsp
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\csi.exe
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\csi.exe.config
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\csi.rsp
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\System.AppContext.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\System.Collections.Immutable.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\System.Console.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\System.Globalization.Calendars.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\System.IO.Compression.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\System.IO.FileSystem.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\System.Net.Http.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\System.Net.Sockets.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\System.Reflection.Metadata.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\System.ValueTuple.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\System.Xml.XPath.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\vbc.exe
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\vbc.exe.config
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\vbc.rsp
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\VBCSCompiler.exe
+D:\HK5\ShopMobile\WebMB\WebMB\bin\roslyn\VBCSCompiler.exe.config
+D:\HK5\ShopMobile\WebMB\WebMB\bin\Antlr3.Runtime.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\Microsoft.Web.Infrastructure.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\Newtonsoft.Json.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\System.Web.Helpers.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\System.Web.Mvc.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\System.Web.Optimization.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\System.Web.Razor.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\System.Web.WebPages.Deployment.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\System.Web.WebPages.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\System.Web.WebPages.Razor.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\WebGrease.dll
+D:\HK5\ShopMobile\WebMB\WebMB\bin\System.Web.Helpers.xml
+D:\HK5\ShopMobile\WebMB\WebMB\bin\System.Web.Mvc.xml
+D:\HK5\ShopMobile\WebMB\WebMB\bin\System.Web.Optimization.xml
+D:\HK5\ShopMobile\WebMB\WebMB\bin\System.Web.Razor.xml
+D:\HK5\ShopMobile\WebMB\WebMB\bin\System.Web.WebPages.xml
+D:\HK5\ShopMobile\WebMB\WebMB\bin\System.Web.WebPages.Deployment.xml
+D:\HK5\ShopMobile\WebMB\WebMB\bin\System.Web.WebPages.Razor.xml
+D:\HK5\ShopMobile\WebMB\WebMB\bin\Newtonsoft.Json.xml
+D:\HK5\ShopMobile\WebMB\WebMB\bin\Antlr3.Runtime.pdb
+D:\HK5\ShopMobile\WebMB\WebMB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HK5\ShopMobile\WebMB\WebMB\obj\Debug\WebMB.csproj.AssemblyReference.cache
+D:\HK5\ShopMobile\WebMB\WebMB\obj\Debug\WebMB.csproj.CoreCompileInputs.cache
+D:\HK5\ShopMobile\WebMB\WebMB\obj\Debug\WebMB.csproj.CopyComplete
+D:\HK5\ShopMobile\WebMB\WebMB\obj\Debug\WebMB.dll
+D:\HK5\ShopMobile\WebMB\WebMB\obj\Debug\WebMB.pdb
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\WebMB.dll.config
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\WebMB.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\WebMB.pdb
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\Antlr3.Runtime.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\Newtonsoft.Json.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\System.Web.Helpers.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\System.Web.Mvc.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\System.Web.Optimization.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\System.Web.Razor.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\System.Web.WebPages.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\System.Web.WebPages.Razor.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\WebGrease.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\System.Web.Helpers.xml
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\System.Web.Mvc.xml
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\System.Web.Optimization.xml
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\System.Web.Razor.xml
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\System.Web.WebPages.xml
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\System.Web.WebPages.Razor.xml
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\Newtonsoft.Json.xml
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\Antlr3.Runtime.pdb
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\obj\Debug\WebMB.csproj.AssemblyReference.cache
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\obj\Debug\WebMB.csproj.CoreCompileInputs.cache
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\obj\Debug\WebMB.csproj.CopyComplete
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\obj\Debug\WebMB.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\obj\Debug\WebMB.pdb
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\csc.exe
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\csc.exe.config
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\csc.rsp
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\csi.exe
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\csi.exe.config
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\csi.rsp
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\System.AppContext.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\System.Console.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\System.IO.Compression.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\System.Net.Http.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\System.ValueTuple.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\vbc.exe
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\vbc.exe.config
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\vbc.rsp
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\roslyn\VBCSCompiler.exe.config
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\WebMB.dll.config
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\WebMB.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\WebMB.pdb
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\csc.exe
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\csc.exe.config
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\csc.rsp
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\csi.exe
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\csi.exe.config
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\csi.rsp
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\System.AppContext.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\System.Collections.Immutable.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\System.Console.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\System.Globalization.Calendars.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\System.IO.Compression.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\System.IO.FileSystem.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\System.Net.Http.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\System.Net.Sockets.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\System.Reflection.Metadata.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\System.ValueTuple.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\System.Xml.XPath.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\vbc.exe
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\vbc.exe.config
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\vbc.rsp
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\VBCSCompiler.exe
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\roslyn\VBCSCompiler.exe.config
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\Antlr3.Runtime.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\EntityFramework.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\EntityFramework.SqlServer.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\Microsoft.Web.Infrastructure.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\Newtonsoft.Json.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\System.Web.Helpers.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\System.Web.Mvc.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\System.Web.Optimization.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\System.Web.Razor.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\System.Web.WebPages.Deployment.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\System.Web.WebPages.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\System.Web.WebPages.Razor.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\WebGrease.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\EntityFramework.xml
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\EntityFramework.SqlServer.xml
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\System.Web.Helpers.xml
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\System.Web.Mvc.xml
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\System.Web.Optimization.xml
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\System.Web.Razor.xml
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\System.Web.WebPages.xml
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\System.Web.WebPages.Deployment.xml
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\System.Web.WebPages.Razor.xml
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\Newtonsoft.Json.xml
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\Antlr3.Runtime.pdb
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\obj\Debug\WebMB.csproj.AssemblyReference.cache
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\obj\Debug\WebMB.csproj.CoreCompileInputs.cache
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\obj\Debug\WebMB.csproj.CopyComplete
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\obj\Debug\WebMB.dll
+D:\HK5\HTTT\Final\ShopMobile\WebMB\WebMB\obj\Debug\WebMB.pdb
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\EntityFramework.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\EntityFramework.SqlServer.dll
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\EntityFramework.xml
+C:\Users\Trí\Documents\GitHub\ShopMobile\WebMB\WebMB\bin\EntityFramework.SqlServer.xml
+E:\ShopMobile\WebMB\WebMB\bin\WebMB.dll.config
+E:\ShopMobile\WebMB\WebMB\bin\WebMB.dll
+E:\ShopMobile\WebMB\WebMB\bin\WebMB.pdb
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\csc.exe
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\csc.exe.config
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\csc.rsp
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\csi.exe
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\csi.exe.config
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\csi.rsp
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\System.AppContext.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\System.Collections.Immutable.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\System.Console.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\System.Globalization.Calendars.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\System.IO.Compression.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\System.IO.FileSystem.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\System.Net.Http.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\System.Net.Sockets.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\System.Reflection.Metadata.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\System.ValueTuple.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\System.Xml.XPath.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\vbc.exe
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\vbc.exe.config
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\vbc.rsp
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\VBCSCompiler.exe
+E:\ShopMobile\WebMB\WebMB\bin\roslyn\VBCSCompiler.exe.config
+E:\ShopMobile\WebMB\WebMB\bin\Antlr3.Runtime.dll
+E:\ShopMobile\WebMB\WebMB\bin\EntityFramework.dll
+E:\ShopMobile\WebMB\WebMB\bin\EntityFramework.SqlServer.dll
+E:\ShopMobile\WebMB\WebMB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ShopMobile\WebMB\WebMB\bin\Microsoft.Web.Infrastructure.dll
+E:\ShopMobile\WebMB\WebMB\bin\Newtonsoft.Json.dll
+E:\ShopMobile\WebMB\WebMB\bin\System.Web.Helpers.dll
+E:\ShopMobile\WebMB\WebMB\bin\System.Web.Mvc.dll
+E:\ShopMobile\WebMB\WebMB\bin\System.Web.Optimization.dll
+E:\ShopMobile\WebMB\WebMB\bin\System.Web.Razor.dll
+E:\ShopMobile\WebMB\WebMB\bin\System.Web.WebPages.Deployment.dll
+E:\ShopMobile\WebMB\WebMB\bin\System.Web.WebPages.dll
+E:\ShopMobile\WebMB\WebMB\bin\System.Web.WebPages.Razor.dll
+E:\ShopMobile\WebMB\WebMB\bin\WebGrease.dll
+E:\ShopMobile\WebMB\WebMB\bin\EntityFramework.xml
+E:\ShopMobile\WebMB\WebMB\bin\EntityFramework.SqlServer.xml
+E:\ShopMobile\WebMB\WebMB\bin\System.Web.Helpers.xml
+E:\ShopMobile\WebMB\WebMB\bin\System.Web.Mvc.xml
+E:\ShopMobile\WebMB\WebMB\bin\System.Web.Optimization.xml
+E:\ShopMobile\WebMB\WebMB\bin\System.Web.Razor.xml
+E:\ShopMobile\WebMB\WebMB\bin\System.Web.WebPages.xml
+E:\ShopMobile\WebMB\WebMB\bin\System.Web.WebPages.Deployment.xml
+E:\ShopMobile\WebMB\WebMB\bin\System.Web.WebPages.Razor.xml
+E:\ShopMobile\WebMB\WebMB\bin\Newtonsoft.Json.xml
+E:\ShopMobile\WebMB\WebMB\bin\Antlr3.Runtime.pdb
+E:\ShopMobile\WebMB\WebMB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ShopMobile\WebMB\WebMB\obj\Debug\WebMB.csproj.AssemblyReference.cache
+E:\ShopMobile\WebMB\WebMB\obj\Debug\WebMB.csproj.CoreCompileInputs.cache
+E:\ShopMobile\WebMB\WebMB\obj\Debug\WebMB.csproj.CopyComplete
+E:\ShopMobile\WebMB\WebMB\obj\Debug\WebMB.dll
+E:\ShopMobile\WebMB\WebMB\obj\Debug\WebMB.pdb
+E:\ShopMobilenew\WebMB\WebMB\bin\WebMB.dll.config
+E:\ShopMobilenew\WebMB\WebMB\bin\WebMB.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\WebMB.pdb
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\csc.exe
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\csc.exe.config
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\csc.rsp
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\csi.exe
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\csi.exe.config
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\csi.rsp
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.AppContext.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Collections.Immutable.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Console.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Globalization.Calendars.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.IO.Compression.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.IO.FileSystem.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Net.Http.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Net.Sockets.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Reflection.Metadata.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.ValueTuple.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Xml.XPath.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\vbc.exe
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\vbc.exe.config
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\vbc.rsp
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\VBCSCompiler.exe
+E:\ShopMobilenew\WebMB\WebMB\bin\roslyn\VBCSCompiler.exe.config
+E:\ShopMobilenew\WebMB\WebMB\bin\Antlr3.Runtime.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\EntityFramework.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\EntityFramework.SqlServer.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\Microsoft.Web.Infrastructure.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\Newtonsoft.Json.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\System.Web.Helpers.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\System.Web.Mvc.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\System.Web.Optimization.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\System.Web.Razor.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\System.Web.WebPages.Deployment.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\System.Web.WebPages.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\System.Web.WebPages.Razor.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\WebGrease.dll
+E:\ShopMobilenew\WebMB\WebMB\bin\EntityFramework.xml
+E:\ShopMobilenew\WebMB\WebMB\bin\EntityFramework.SqlServer.xml
+E:\ShopMobilenew\WebMB\WebMB\bin\System.Web.Helpers.xml
+E:\ShopMobilenew\WebMB\WebMB\bin\System.Web.Mvc.xml
+E:\ShopMobilenew\WebMB\WebMB\bin\System.Web.Optimization.xml
+E:\ShopMobilenew\WebMB\WebMB\bin\System.Web.Razor.xml
+E:\ShopMobilenew\WebMB\WebMB\bin\System.Web.WebPages.xml
+E:\ShopMobilenew\WebMB\WebMB\bin\System.Web.WebPages.Deployment.xml
+E:\ShopMobilenew\WebMB\WebMB\bin\System.Web.WebPages.Razor.xml
+E:\ShopMobilenew\WebMB\WebMB\bin\Newtonsoft.Json.xml
+E:\ShopMobilenew\WebMB\WebMB\bin\Antlr3.Runtime.pdb
+E:\ShopMobilenew\WebMB\WebMB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ShopMobilenew\WebMB\WebMB\obj\Debug\WebMB.csproj.AssemblyReference.cache
+E:\ShopMobilenew\WebMB\WebMB\obj\Debug\WebMB.csproj.CoreCompileInputs.cache
+E:\ShopMobilenew\WebMB\WebMB\obj\Debug\WebMB.csproj.CopyComplete
+E:\ShopMobilenew\WebMB\WebMB\obj\Debug\WebMB.dll
+E:\ShopMobilenew\WebMB\WebMB\obj\Debug\WebMB.pdb
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\obj\Debug\WebMB.csproj.AssemblyReference.cache
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\obj\Debug\WebMB.csproj.CoreCompileInputs.cache
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\obj\Debug\WebMB.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\obj\Debug\WebMB.pdb
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\WebMB.dll.config
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\WebMB.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\WebMB.pdb
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\csc.exe
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\csc.exe.config
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\csc.rsp
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\csi.exe
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\csi.exe.config
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\csi.rsp
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.AppContext.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Console.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Net.Http.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\vbc.exe
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\vbc.exe.config
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\vbc.rsp
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Antlr3.Runtime.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\EntityFramework.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\EntityFramework.SqlServer.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Newtonsoft.Json.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.Helpers.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.Mvc.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.Optimization.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.Razor.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.WebPages.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\WebGrease.dll
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\EntityFramework.xml
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\EntityFramework.SqlServer.xml
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.Helpers.xml
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.Mvc.xml
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.Optimization.xml
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.Razor.xml
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.WebPages.xml
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Newtonsoft.Json.xml
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Antlr3.Runtime.pdb
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC MSI\Desktop\ShopMobilenew\ShopMobilenew\WebMB\WebMB\obj\Debug\WebMB.csproj.CopyComplete
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\WebMB.dll.config
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\WebMB.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\WebMB.pdb
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\csc.exe
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\csc.exe.config
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\csc.rsp
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\csi.exe
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\csi.exe.config
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\csi.rsp
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.AppContext.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Collections.Immutable.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Console.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Globalization.Calendars.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.IO.Compression.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.IO.FileSystem.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Net.Http.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Net.Sockets.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Reflection.Metadata.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.ValueTuple.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Xml.XPath.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\vbc.exe
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\vbc.exe.config
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\vbc.rsp
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\VBCSCompiler.exe
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\VBCSCompiler.exe.config
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Antlr3.Runtime.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\EntityFramework.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\EntityFramework.SqlServer.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Microsoft.Web.Infrastructure.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Newtonsoft.Json.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.Helpers.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.Mvc.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.Optimization.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.Razor.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.WebPages.Deployment.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.WebPages.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.WebPages.Razor.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\WebGrease.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\EntityFramework.xml
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\EntityFramework.SqlServer.xml
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.Helpers.xml
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.Mvc.xml
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.Optimization.xml
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.Razor.xml
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.WebPages.xml
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.WebPages.Deployment.xml
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.WebPages.Razor.xml
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Newtonsoft.Json.xml
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Antlr3.Runtime.pdb
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\obj\Debug\WebMB.csproj.AssemblyReference.cache
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\obj\Debug\WebMB.csproj.CoreCompileInputs.cache
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\obj\Debug\WebMB.csproj.CopyComplete
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\obj\Debug\WebMB.dll
+E:\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\obj\Debug\WebMB.pdb
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\WebMB.dll.config
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\WebMB.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\WebMB.pdb
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\csc.exe
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\csc.exe.config
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\csc.rsp
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\csi.exe
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\csi.exe.config
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\csi.rsp
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.AppContext.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Console.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Net.Http.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\vbc.exe
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\vbc.exe.config
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\vbc.rsp
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Antlr3.Runtime.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\EntityFramework.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\EntityFramework.SqlServer.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Newtonsoft.Json.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.Helpers.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.Mvc.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.Optimization.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.Razor.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.WebPages.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\WebGrease.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\EntityFramework.xml
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\EntityFramework.SqlServer.xml
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.Helpers.xml
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.Mvc.xml
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.Optimization.xml
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.Razor.xml
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.WebPages.xml
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Newtonsoft.Json.xml
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Antlr3.Runtime.pdb
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\obj\Debug\WebMB.csproj.AssemblyReference.cache
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\obj\Debug\WebMB.csproj.CoreCompileInputs.cache
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\obj\Debug\WebMB.csproj.CopyComplete
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\obj\Debug\WebMB.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\obj\Debug\WebMB.pdb
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Elasticsearch.Net.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Nest.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Buffers.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Memory.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Numerics.Vectors.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Elasticsearch.Net.pdb
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Elasticsearch.Net.xml
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Nest.pdb
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\Nest.xml
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Buffers.xml
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Memory.xml
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Numerics.Vectors.xml
+C:\Users\PC MSI\Desktop\ShopMobileSatuday\ShopMobilenew111\ShopMobilenew\ShopMobilenew\WebMB\WebMB\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\WebMB.dll.config
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\WebMB.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\WebMB.pdb
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\csc.exe
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\csc.exe.config
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\csc.rsp
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\csi.exe
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\csi.exe.config
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\csi.rsp
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\System.AppContext.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Collections.Immutable.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Console.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Globalization.Calendars.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\System.IO.Compression.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\System.IO.FileSystem.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Net.Http.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Net.Sockets.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Reflection.Metadata.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\System.ValueTuple.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Xml.XPath.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\vbc.exe
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\vbc.exe.config
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\vbc.rsp
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\VBCSCompiler.exe
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\roslyn\VBCSCompiler.exe.config
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\Antlr3.Runtime.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\Elasticsearch.Net.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\EntityFramework.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\EntityFramework.SqlServer.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\Microsoft.Web.Infrastructure.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\Nest.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\Newtonsoft.Json.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\System.Buffers.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\System.Diagnostics.DiagnosticSource.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\System.Memory.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\System.Numerics.Vectors.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\System.Web.Helpers.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\System.Web.Mvc.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\System.Web.Optimization.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\System.Web.Razor.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\System.Web.WebPages.Deployment.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\System.Web.WebPages.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\System.Web.WebPages.Razor.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\WebGrease.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\Elasticsearch.Net.pdb
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\Elasticsearch.Net.xml
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\EntityFramework.xml
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\EntityFramework.SqlServer.xml
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\Nest.pdb
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\Nest.xml
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\System.Buffers.xml
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\System.Diagnostics.DiagnosticSource.xml
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\System.Memory.xml
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\System.Numerics.Vectors.xml
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\System.Web.Helpers.xml
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\System.Web.Mvc.xml
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\System.Web.Optimization.xml
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\System.Web.Razor.xml
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\System.Web.WebPages.xml
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\System.Web.WebPages.Deployment.xml
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\System.Web.WebPages.Razor.xml
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\Newtonsoft.Json.xml
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\Antlr3.Runtime.pdb
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\obj\Debug\WebMB.csproj.AssemblyReference.cache
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\obj\Debug\WebMB.csproj.CoreCompileInputs.cache
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\obj\Debug\WebMB.csproj.CopyComplete
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\obj\Debug\WebMB.dll
+D:\HK5\CNPM\Final\CNPM_Final\WebMB\WebMB\obj\Debug\WebMB.pdb
+D:\CNPM_Final\WebMB\WebMB\bin\WebMB.dll.config
+D:\CNPM_Final\WebMB\WebMB\bin\WebMB.dll
+D:\CNPM_Final\WebMB\WebMB\bin\WebMB.pdb
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\csc.exe
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\csc.exe.config
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\csc.rsp
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\csi.exe
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\csi.exe.config
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\csi.rsp
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\System.AppContext.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Collections.Immutable.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Console.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Globalization.Calendars.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\System.IO.Compression.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\System.IO.FileSystem.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Net.Http.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Net.Sockets.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Reflection.Metadata.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\System.ValueTuple.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Xml.XPath.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\vbc.exe
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\vbc.exe.config
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\vbc.rsp
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\VBCSCompiler.exe
+D:\CNPM_Final\WebMB\WebMB\bin\roslyn\VBCSCompiler.exe.config
+D:\CNPM_Final\WebMB\WebMB\bin\Antlr3.Runtime.dll
+D:\CNPM_Final\WebMB\WebMB\bin\Elasticsearch.Net.dll
+D:\CNPM_Final\WebMB\WebMB\bin\EntityFramework.dll
+D:\CNPM_Final\WebMB\WebMB\bin\EntityFramework.SqlServer.dll
+D:\CNPM_Final\WebMB\WebMB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CNPM_Final\WebMB\WebMB\bin\Microsoft.Web.Infrastructure.dll
+D:\CNPM_Final\WebMB\WebMB\bin\Nest.dll
+D:\CNPM_Final\WebMB\WebMB\bin\Newtonsoft.Json.dll
+D:\CNPM_Final\WebMB\WebMB\bin\System.Buffers.dll
+D:\CNPM_Final\WebMB\WebMB\bin\System.Diagnostics.DiagnosticSource.dll
+D:\CNPM_Final\WebMB\WebMB\bin\System.Memory.dll
+D:\CNPM_Final\WebMB\WebMB\bin\System.Numerics.Vectors.dll
+D:\CNPM_Final\WebMB\WebMB\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\CNPM_Final\WebMB\WebMB\bin\System.Web.Helpers.dll
+D:\CNPM_Final\WebMB\WebMB\bin\System.Web.Mvc.dll
+D:\CNPM_Final\WebMB\WebMB\bin\System.Web.Optimization.dll
+D:\CNPM_Final\WebMB\WebMB\bin\System.Web.Razor.dll
+D:\CNPM_Final\WebMB\WebMB\bin\System.Web.WebPages.Deployment.dll
+D:\CNPM_Final\WebMB\WebMB\bin\System.Web.WebPages.dll
+D:\CNPM_Final\WebMB\WebMB\bin\System.Web.WebPages.Razor.dll
+D:\CNPM_Final\WebMB\WebMB\bin\WebGrease.dll
+D:\CNPM_Final\WebMB\WebMB\bin\Elasticsearch.Net.pdb
+D:\CNPM_Final\WebMB\WebMB\bin\Elasticsearch.Net.xml
+D:\CNPM_Final\WebMB\WebMB\bin\EntityFramework.xml
+D:\CNPM_Final\WebMB\WebMB\bin\EntityFramework.SqlServer.xml
+D:\CNPM_Final\WebMB\WebMB\bin\Nest.pdb
+D:\CNPM_Final\WebMB\WebMB\bin\Nest.xml
+D:\CNPM_Final\WebMB\WebMB\bin\System.Buffers.xml
+D:\CNPM_Final\WebMB\WebMB\bin\System.Diagnostics.DiagnosticSource.xml
+D:\CNPM_Final\WebMB\WebMB\bin\System.Memory.xml
+D:\CNPM_Final\WebMB\WebMB\bin\System.Numerics.Vectors.xml
+D:\CNPM_Final\WebMB\WebMB\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\CNPM_Final\WebMB\WebMB\bin\System.Web.Helpers.xml
+D:\CNPM_Final\WebMB\WebMB\bin\System.Web.Mvc.xml
+D:\CNPM_Final\WebMB\WebMB\bin\System.Web.Optimization.xml
+D:\CNPM_Final\WebMB\WebMB\bin\System.Web.Razor.xml
+D:\CNPM_Final\WebMB\WebMB\bin\System.Web.WebPages.xml
+D:\CNPM_Final\WebMB\WebMB\bin\System.Web.WebPages.Deployment.xml
+D:\CNPM_Final\WebMB\WebMB\bin\System.Web.WebPages.Razor.xml
+D:\CNPM_Final\WebMB\WebMB\bin\Newtonsoft.Json.xml
+D:\CNPM_Final\WebMB\WebMB\bin\Antlr3.Runtime.pdb
+D:\CNPM_Final\WebMB\WebMB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CNPM_Final\WebMB\WebMB\obj\Debug\WebMB.csproj.AssemblyReference.cache
+D:\CNPM_Final\WebMB\WebMB\obj\Debug\WebMB.csproj.CoreCompileInputs.cache
+D:\CNPM_Final\WebMB\WebMB\obj\Debug\WebMB.csproj.CopyComplete
+D:\CNPM_Final\WebMB\WebMB\obj\Debug\WebMB.dll
+D:\CNPM_Final\WebMB\WebMB\obj\Debug\WebMB.pdb

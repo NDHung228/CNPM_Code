@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewBag.Title = "StatusImportProduct";
+}
+
+@model List<WebMB.Areas.Admin.Models.CartViewModel>
+
+<main>
+  
+    <table class="customers">
+        <tr>
+            <td>Mã nhập hàng</td>
+            <td>Tên sản phẩm</td>
+            <td>Số lượng hàng còn trong kho</td>
+            <td>Số lượng yêu cầu nhập thêm</td>
+            <td>Ngày gửi yêu cầu nhập hàng</td>
+            <td>Ngày gửi lại phản hồi</td>
+            <td>Tình trạng nhập hàng</td>
+
+        </tr>
+        <tr>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>@item.importProduct.importID</td>
+                <td>@item.product.name</td>
+                <td>@item.product.count</td>
+                <td>@item.importProduct.importQuantity</td>
+                <td>@item.importProduct.createDate</td>
+                <td>@item.importProduct.confirmDate</td>
+                @if (item.importProduct.status == 0)
+                {
+                    <td>Đang xử lí</td>
+                }
+                @if (item.importProduct.status == 1)
+                {
+                    <td>Đã xác nhận</td>
+                }
+                @if (item.importProduct.status == -1)
+                {
+                    <td>Đã từ chối</td>
+                }
+
+
+            </tr>
+        }
+
+
+        </table>
+    </main>
+

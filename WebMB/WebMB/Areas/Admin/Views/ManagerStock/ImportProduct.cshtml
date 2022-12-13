@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewBag.Title = "ImportProduct";
+}
+
+
+
+
+@model WebMB.Context.ImportProduct
+<main>
+
+
+    <table class="customers">
+        <tr>
+            <td>Mã sản phầm</td>
+            <td>Số lượng muốn nhập thêm</td>
+        </tr>
+        <tr>
+
+            @using (Html.BeginForm())
+            {
+                @*<td>
+                    <select name="ListNameProducts" id="dog-names">
+                        @foreach (var item in ViewBag.listProduct)
+                        {
+                            <option id="productID" value="">@item.name</option>
+                        }
+                    </select>
+                </td>*@
+
+                <td><input id="productID" name="productID" type="number" value=""  /></td>
+                <td><input id="importQuantity" name="importQuantity" type="number" value="" /></td>
+
+                <td><button type="submit" class="submit">Xác nhận</button></td>
+
+            }
+
+        </tr>
+      
+
+    </table>
+</main>
+
+
+

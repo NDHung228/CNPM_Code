@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "AddOrder";
+}
+
+<h2>AddOrder</h2>
+
+<div class="col-lg-8">
+
+
+    <div>
+        @using (Html.BeginForm())
+        {
+            <div style="padding-top: 20px; padding-left: 20px" class="col-auto">
+                <p style="font-weight: bold; padding-left: 10px; font-size: 20px; color: blue">Phone number</p>
+                <input style="font-weight: bold;" name="inputPhone" type="text" class="form-control" value="@ViewBag.check">
+            </div>
+            <div style="padding-top:20px;padding-left:20px" class="col-auto">
+                <p style="font-weight: bold; padding-left: 10px; font-size: 20px; color: blue">Address</p>
+                <input style="font-weight: bold;" name="inputAddress" type="text" class="form-control" value="@ViewBag.check2">
+            </div>
+            <div style="padding-bottom:10px; padding-top:20px;padding-left:50%" class="col-auto">
+                <button type="submit" class="btn btn-primary">
+                    <span class="fa fa-paper-plane"></span>
+                </button>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Save" class="btn btn-default" />
+                </div>
+            </div>
+        }
+
+    </div>
+</div>

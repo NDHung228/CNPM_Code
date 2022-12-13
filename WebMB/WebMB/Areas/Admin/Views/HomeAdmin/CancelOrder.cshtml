@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewBag.Title = "CancelOrder";
+}
+
+
+
+@model List<WebMB.Areas.Admin.Models.CartViewModel>
+
+<main>
+  
+    <table class="customers">
+        <tr>
+            <td>Số HD</td>
+            <td>Họ tên</td>
+            <td>Thông tin đơn hàng</td>
+            <td>Ngày mua</td>
+            <td>Địa chỉ</td>
+            <td>SDT</td>
+            <td>Tổng hóa đơn (VNĐ)</td>
+            <td>Tình trạng đơn hàng</td>
+
+        </tr>
+        <tr>
+            @foreach (var item in Model)
+            {
+            <tr>
+
+                <td>@item.order.ID</td>
+                <td>@item.account.username</td>
+                <td>
+                    @foreach (var item2 in ViewBag.Orderview)
+                    {
+
+                        if (item.order.ID == item2.orderDetail.OrderID)
+                        {
+                            <p>@item2.Product.name   X @item2.orderDetail.Quantity</p>
+                        }
+                    }
+                </td>
+                <td>@item.order.CreateDate</td>
+                <td>@item.account.address2</td>
+                <td>@item.account.phone</td>
+                <td>
+                @item.order.Total
+                </td>
+                <td>@item.statusOrder.statusName</td>
+            </tr>
+        }
+
+
+        </table>
+    </main>
+
+
